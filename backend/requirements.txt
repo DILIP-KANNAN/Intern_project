@@ -1,7 +1,9 @@
-Flask
-flask_cors
+flask
+flask-cors
 torch
 torchvision
-Pillow
+opencv-python
+pillow
 numpy
-open-cv-python
+requests
+gunicorn
